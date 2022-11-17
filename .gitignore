@@ -1,2 +1,6 @@
 hello
 exchange_rate/target
+exchange_rate/.dfx
+exchange_rate/node_modules
+exchange_rate/node_modules
+rust_tutorial/target
